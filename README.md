@@ -47,7 +47,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Readings | Assignment |
 |------------|-------|---------------------------------------------------------|--------------|------------------------------|
-| Jan.  7 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) | PS1 |
+| Jan.  7 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf), [Slides](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Slides/PerspModel_Intro.pdf) | [PS1](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Jan.  9 | W | Numerical derivatives | | PS2 |
 | Jan. 14 | M | Numerical integration | |     |
 | Jan. 16 | W | Dynamic programming   | | PS3 |
