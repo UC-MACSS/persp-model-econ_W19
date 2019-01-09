@@ -4,7 +4,7 @@
 |--------------|--------------------------------------------------------------|----------------------------------------------------------------------------|
 | Email | rwevans@uchicago.edu | TBA |
 | Office | 208 McGiffert House |     |
-| Office Hours | T 9:30-11:30am | TBA |
+| Office Hours | T 10:30am-12:30pm | TBA |
 | GitHub | [rickecon](https://github.com/rickecon) | TBA |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Cobb Hall, Room 103
@@ -38,6 +38,14 @@ Late problem sets will be penalized 2 points for every hour they are late. For e
 | 1:31pm to 2:30pm       | -6 points       |
 | 2:31pm to 3:30pm       | -8 points       |
 | 3:30pm and beyond      | -10 points (no credit) |
+
+## Assignment submission procedure
+
+This folder on your fork of the class repository `github.com/YourGitHubHandle/persp-model-econ_W19/ProblemSets/` is where you will submit your problem sets and project assignments. You will just commit and push your assignments to the appropriate folder. For example, your files for PS1 should be committed to the PS1 folder on your fork of the class repository.
+
+`/persp-model-econ_W19/ProblemSets/PS1/YourFile.pdf`
+
+I will use a shell script to clone all class members' repositories at the time the assignments are due.
 
 ## Disability services
 
