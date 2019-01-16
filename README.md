@@ -7,7 +7,7 @@
 | Office Hours | T 10:30am-12:30pm | TBA |
 | GitHub | [rickecon](https://github.com/rickecon) | TBA |
 
-* **Meeting day/time**: MW 11:30am-1:20pm, Cobb Hall, Room 103
+* **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
 * **Lab session**: W 4:30 - 5:20pm, Saieh Hall, Room 247
 * Office hours also available by appointment
 
