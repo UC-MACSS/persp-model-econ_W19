@@ -1,4 +1,4 @@
-# MACS 30100 - Perspectives on Computational Modeling (Winter 2018)
+# MACS 30150 - Perspectives on Computational Modeling in Economics (Winter 2019)
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TBA (TA) |
 |--------------|--------------------------------------------------------------|----------------------------------------------------------------------------|
