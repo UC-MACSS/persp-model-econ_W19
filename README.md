@@ -1,11 +1,11 @@
 # MACS 30150 - Perspectives on Computational Modeling in Economics (Winter 2019)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TBA (TA) |
-|--------------|--------------------------------------------------------------|----------------------------------------------------------------------------|
-| Email | rwevans@uchicago.edu | TBA |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | Zunda (Winston) Xu |
+|--------------|----------------------------|--------------------------|
+| Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |     |
 | Office Hours | T 10:30am-12:30pm | TBA |
-| GitHub | [rickecon](https://github.com/rickecon) | TBA |
+| GitHub | [rickecon](https://github.com/rickecon) | [zundaxu](https://github.com/zundaxu) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
 * **Lab session**: W 4:30 - 5:20pm, Saieh Hall, Room 247
