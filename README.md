@@ -1,11 +1,11 @@
 # MACS 30150 - Perspectives on Computational Modeling in Economics (Winter 2019)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TBA (TA) |
-|--------------|--------------------------------------------------------------|----------------------------------------------------------------------------|
-| Email | rwevans@uchicago.edu | TBA |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | Zunda (Winston) Xu |
+|--------------|----------------------------|--------------------------|
+| Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |     |
-| Office Hours | T 10:30am-12:30pm | TBA |
-| GitHub | [rickecon](https://github.com/rickecon) | TBA |
+| Office Hours | T 10:30am-12:30pm | Fr 10:30am-11:30am |
+| GitHub | [rickecon](https://github.com/rickecon) | [zundaxu](https://github.com/zundaxu) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
 * **Lab session**: W 4:30 - 5:20pm, Saieh Hall, Room 247
@@ -61,7 +61,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan. 16 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 21 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 23 | W | Dynamic programming   | |     |
-| Jan. 28 | M | Maximum likelihood estimation (MLE) | | PS4 |
+| Jan. 28 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Jan. 30 | W | Generalized method of moments (GMM) | | PS5 |
 | Feb.  4 | M | Generalized method of moments (GMM) | | |
 | **Feb. 6** | **W** | **Evans Midterm** |  |  |
