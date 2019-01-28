@@ -4,7 +4,7 @@
 |--------------|----------------------------|--------------------------|
 | Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |     |
-| Office Hours | T 10:30am-12:30pm | TBA |
+| Office Hours | T 10:30am-12:30pm | Fr 10:30am-11:30am |
 | GitHub | [rickecon](https://github.com/rickecon) | [zundaxu](https://github.com/zundaxu) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
