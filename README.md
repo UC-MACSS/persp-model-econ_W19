@@ -62,12 +62,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan. 21 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 23 | W | Dynamic programming   | |     |
 | Jan. 28 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS4/PS4.pdf) |
-| Jan. 30 | W | Generalized method of moments (GMM) | | PS5 |
-| Feb.  4 | M | Generalized method of moments (GMM) | | |
-| **Feb. 6** | **W** | **Evans Midterm** |  |  |
-| Feb. 11 | M | Statistical learning and linear regression | JWHT Ch. 2, 3, Notes | PS6 |
-| Feb. 13 | W | Classification and logistic regression | JWHT Chs. 2, 4 |    |
-| Feb. 18 | M | Classification and logistic regression | Notes |  |
+| Jan. 30 | W | Class cancelled: winter weather | |  |
+| Feb.  4 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS5](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS5/PS5.pdf) |
+| Feb.  6 | W | Generalized method of moments (GMM) |  |  |
+| **Feb. 11** | **M** | **Evans Midterm** |  |  |
+| Feb. 13 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, Notes | PS6 |
+| Feb. 18 | M | Classification and logistic regression | JWHT Chs. 2, 4, Notes |  |
 | Feb. 25 | M | Resampling methods (cross-validation and bootstrapping) | JWHT Ch. 5, Notes |  |
 | Feb. 27 | W | Tree-based methods | JWHT Ch. 8, Notes | PS7 |
 | Mar.  4 | M | Tree-based methods | JWHT Ch. 8 |  |
