@@ -69,7 +69,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb. 13 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/LinRegress/LinRegress.ipynb) | [PS6](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS6/PS6.pdf) |
 | Feb. 18 | M | Classification and logistic regression | JWHT Chs. 2, 4, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Classification/LogitKNN.ipynb) |  |
 | Feb. 20 | W | Resampling methods (cross-validation and bootstrapping) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Resampling/Resampling.ipynb) | [PS7](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS7/PS7.pdf) |
-| Feb. 25 | M | Interpolation | Notes |  |
+| Feb. 25 | M | Interpolation | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Interp/Interp.ipynb) |  |
 | Feb. 27 | W | Tree-based methods | JWHT Ch. 8, Notes | PS7 |
 | Mar.  4 | M | Tree-based methods | JWHT Ch. 8 |  |
 | Mar.  6 | W | Support vector machines | JWHT Ch. 9, Notes |  |
