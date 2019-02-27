@@ -25,9 +25,9 @@ You will have 8 problem sets throughout the term. I will drop everybody's lowest
 
 | Assignment       | Quantity | Points | Total Points | Percent |
 |------------------|----------|--------|--------------|---------|
-| Problem Sets     | 8        | 10     | 70           | 77.8%     |
-| Midterm exam     | 1        | 20     | 20           | 22.2%     |
-| **Total Points** | --       | --     | 90           | 100%    |
+| Problem Sets     | 9        | 10     | 80           | 80%     |
+| Midterm exam     | 1        | 20     | 20           | 20%     |
+| **Total Points** | --       | --     | 100          | 100%    |
 
 Late problem sets will be penalized 2 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
 
@@ -70,10 +70,10 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb. 18 | M | Classification and logistic regression | JWHT Chs. 2, 4, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Classification/LogitKNN.ipynb) |  |
 | Feb. 20 | W | Resampling methods (cross-validation and bootstrapping) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Resampling/Resampling.ipynb) | [PS7](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS7/PS7.pdf) |
 | Feb. 25 | M | Interpolation | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Interp/Interp.ipynb) |  |
-| Feb. 27 | W | Tree-based methods | JWHT Ch. 8, Notes | PS7 |
+| Feb. 27 | W | Tree-based methods | JWHT Ch. 8, Notes | PS8 |
 | Mar.  4 | M | Tree-based methods | JWHT Ch. 8 |  |
 | Mar.  6 | W | Support vector machines | JWHT Ch. 9, Notes |  |
-| Mar. 11 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS8 |
+| Mar. 11 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS9 |
 | Mar. 13 | W | Neural networks  | Notes |  |
 
 ## References and Readings ##
