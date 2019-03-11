@@ -73,8 +73,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb. 27 | W | Tree-based methods | JWHT Ch. 8, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Trees/Trees.ipynb) | [PS8](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS8/PS8.pdf) |
 | Mar.  4 | M | Tree-based methods | JWHT Ch. 8 |  |
 | Mar.  6 | W | Support vector machines | JWHT Ch. 9, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/SVM/SVM.ipynb) |  |
-| Mar. 11 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS9 |
-| Mar. 13 | W | Neural networks  | Notebk |  |
+| Mar. 11 | M | Neural networks | HTF Ch. 11, G Ch. 10 | [PS9](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS9/PS9.pdf) |
+| Mar. 13 | W | Neural networks  | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/NeuralNet/NeuralNet.ipynb) |  |
 
 ## References and Readings ##
 
